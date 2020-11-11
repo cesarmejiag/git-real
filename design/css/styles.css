@@ -45,11 +45,16 @@ body {
     padding: 50px 0;
 }
 
+.block header {
+    margin-bottom: 20px;
+}
+
 .block .title {
     font-size: 1.85em;
     margin-top: 0;
     text-align: center;
 }
+
 .block .content {
     
 }
